@@ -1,0 +1,2 @@
+#include <winuser.rh>
+1 RT_MANIFEST "heli_q8_2_1_2.auto.manifest"
